@@ -1,0 +1,15 @@
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\bin\Debug\net6.0\программа.exe
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\bin\Debug\net6.0\программа.deps.json
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\bin\Debug\net6.0\программа.runtimeconfig.json
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\bin\Debug\net6.0\программа.dll
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\bin\Debug\net6.0\программа.pdb
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.csproj.AssemblyReference.cache
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.AssemblyInfoInputs.cache
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.AssemblyInfo.cs
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.csproj.CoreCompileInputs.cache
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.dll
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\refint\программа.dll
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.pdb
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\программа.genruntimeconfig.cache
+C:\Users\Sapphire\Desktop\Study\GB\Итоговая работа\Итоговая\программа\obj\Debug\net6.0\ref\программа.dll
